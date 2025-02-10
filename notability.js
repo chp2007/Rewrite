@@ -1,18 +1,3 @@
-/*************************************
-
-项目名称：Notability解锁plus
-使用声明：先开启规则，notability软件，如果解锁无效果，点击恢复计划
-
-**************************************
-
-[rewrite_local]
-^https?:\/\/notability\.com\/(global|subscriptions) url script-response-body https://raw.githubusercontent.com/chp2007/Rewrite/main/notability.js
-
-[mitm]
-hostname=notability.com
-
-*************************************/
-
 var chp2007=JSON.parse($response.body);
 
 chp2007={
