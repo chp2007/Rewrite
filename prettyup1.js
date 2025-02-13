@@ -1,1 +1,80 @@
-var _0x652d7d=(894882^894883)+(136646^136647);var chxm1023=JSON['\u0070\u0061\u0072\u0073\u0065']($response['\u0062\u006F\u0064\u0079']);_0x652d7d=753962^753961;var _0x94cb8e=(202469^202471)+(735249^735255);const ua=$request['\u0068\u0065\u0061\u0064\u0065\u0072\u0073']["\u0055\u0073\u0065\u0072\u002D\u0041\u0067\u0065\u006E\u0074"]||$request['\u0068\u0065\u0061\u0064\u0065\u0072\u0073']["\u0075\u0073\u0065\u0072\u002D\u0061\u0067\u0065\u006E\u0074"];_0x94cb8e='\u0068\u006F\u006C\u006A\u0069\u006B';const bundle_id=chxm1023['\u0072\u0065\u0063\u0065\u0069\u0070\u0074']["\u0062\u0075\u006E\u0064\u006C\u0065\u005F\u0069\u0064"]||chxm1023['\u0072\u0065\u0063\u0065\u0069\u0070\u0074']["Bundle_Id"];const yearid=`${bundle_id}.year`;const yearlyid=`${bundle_id}.yearly`;var _0x58c99f=(571621^571629)+(260289^260291);const yearlysubscription=`${bundle_id}.yearlysubscription`;_0x58c99f=(410208^410212)+(430760^430753);const list={'com.floatcamellia.prettyup':{"cm":'timeb','\u0068\u0078':"\u0068\u0078\u0070\u0064\u0061",'\u0069\u0064':"\u0063\u006F\u006D\u002E\u0066\u006C\u006F\u0061\u0074\u0063\u0061\u006D\u0065\u006C\u006C\u0069\u0061\u002E\u0070\u0072\u0065\u0074\u0074\u0079\u0075\u0070\u002E\u006F\u006E\u0065\u0074\u0069\u006D\u0065\u0070\u0075\u0072\u0063\u0068\u0061\u0073\u0065","latest":"\u0063\u0068\u0078\u006D\u0031\u0030\u0032\u0033"}};const receipt={"quantity":"\u0031","\u0070\u0075\u0072\u0063\u0068\u0061\u0073\u0065\u005F\u0064\u0061\u0074\u0065\u005F\u006D\u0073":"1694250549000","\u0069\u0073\u005F\u0069\u006E\u005F\u0069\u006E\u0074\u0072\u006F\u005F\u006F\u0066\u0066\u0065\u0072\u005F\u0070\u0065\u0072\u0069\u006F\u0064":"false","\u0074\u0072\u0061\u006E\u0073\u0061\u0063\u0074\u0069\u006F\u006E\u005F\u0069\u0064":"490001314520000","\u0069\u0073\u005F\u0074\u0072\u0069\u0061\u006C\u005F\u0070\u0065\u0072\u0069\u006F\u0064":"\u0066\u0061\u006C\u0073\u0065","\u006F\u0072\u0069\u0067\u0069\u006E\u0061\u006C\u005F\u0074\u0072\u0061\u006E\u0073\u0061\u0063\u0074\u0069\u006F\u006E\u005F\u0069\u0064":"\u0034\u0039\u0030\u0030\u0030\u0031\u0033\u0031\u0034\u0035\u0032\u0030\u0030\u0030\u0030","purchase_date":"2023-09-09 09:09:09 Etc/GMT","\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":yearlyid,"\u006F\u0072\u0069\u0067\u0069\u006E\u0061\u006C\u005F\u0070\u0075\u0072\u0063\u0068\u0061\u0073\u0065\u005F\u0064\u0061\u0074\u0065\u005F\u0070\u0073\u0074":"2023-09-09 02:09:10 America/Los_Angeles","in_app_ownership_type":"\u0050\u0055\u0052\u0043\u0048\u0041\u0053\u0045\u0044","\u006F\u0072\u0069\u0067\u0069\u006E\u0061\u006C\u005F\u0070\u0075\u0072\u0063\u0068\u0061\u0073\u0065\u005F\u0064\u0061\u0074\u0065\u005F\u006D\u0073":"\u0031\u0036\u0039\u0034\u0032\u0035\u0030\u0035\u0035\u0030\u0030\u0030\u0030","web_order_line_item_id":"\u0034\u0039\u0030\u0030\u0030\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039","\u0070\u0075\u0072\u0063\u0068\u0061\u0073\u0065\u005F\u0064\u0061\u0074\u0065\u005F\u0070\u0073\u0074":"\u0032\u0030\u0032\u0033\u002D\u0030\u0039\u002D\u0030\u0039\u0020\u0030\u0032\u003A\u0030\u0039\u003A\u0030\u0039\u0020\u0041\u006D\u0065\u0072\u0069\u0063\u0061\u002F\u004C\u006F\u0073\u005F\u0041\u006E\u0067\u0065\u006C\u0065\u0073","\u006F\u0072\u0069\u0067\u0069\u006E\u0061\u006C\u005F\u0070\u0075\u0072\u0063\u0068\u0061\u0073\u0065\u005F\u0064\u0061\u0074\u0065":"\u0032\u0030\u0032\u0033\u002D\u0030\u0039\u002D\u0030\u0039\u0020\u0030\u0039\u003A\u0030\u0039\u003A\u0031\u0030\u0020\u0045\u0074\u0063\u002F\u0047\u004D\u0054"};let _0xc3a;const expirestime={"\u0065\u0078\u0070\u0069\u0072\u0065\u0073\u005F\u0064\u0061\u0074\u0065":"\u0032\u0030\u0039\u0039\u002D\u0030\u0039\u002D\u0030\u0039\u0020\u0030\u0039\u003A\u0030\u0039\u003A\u0030\u0039\u0020\u0045\u0074\u0063\u002F\u0047\u004D\u0054","\u0065\u0078\u0070\u0069\u0072\u0065\u0073\u005F\u0064\u0061\u0074\u0065\u005F\u0070\u0073\u0074":"\u0032\u0030\u0039\u0039\u002D\u0030\u0039\u002D\u0030\u0039\u0020\u0030\u0036\u003A\u0030\u0036\u003A\u0030\u0036\u0020\u0041\u006D\u0065\u0072\u0069\u0063\u0061\u002F\u004C\u006F\u0073\u005F\u0041\u006E\u0067\u0065\u006C\u0065\u0073","expires_date_ms":"4092599349000"};_0xc3a=(573837^573835)+(920418^920420);var _0x243be=(777161^777165)+(606817^606816);let anchor=false;_0x243be=(955956^955956)+(134368^134376);var _0x47f9gd=(783771^783770)+(396171^396168);let data;_0x47f9gd=577828^577826;for(const i in list){var _0xa1a36d=(658552^658545)+(445903^445897);const regex=new RegExp(`^${i}`,`i`);_0xa1a36d='\u0064\u0069\u0062\u006B\u0064\u0070';if(regex['\u0074\u0065\u0073\u0074'](ua)||regex['\u0074\u0065\u0073\u0074'](bundle_id)){const{"cm":cm,"hx":hx,"id":id,"ids":ids,'\u006C\u0061\u0074\u0065\u0073\u0074':latest,"version":version}=list[i];const receiptdata=Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},receipt,{"product_id":id});switch(cm){case"aemit".split("").reverse().join(""):data=[Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},receiptdata,expirestime)];break;case"bemit".split("").reverse().join(""):data=[receiptdata];break;case"cemit".split("").reverse().join(""):data=[];break;case"\u0074\u0069\u006D\u0065\u0064":data=[Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},receiptdata,{"\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":ids}),Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},receiptdata,expirestime,{"\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":id})];break;}if(hx['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("adpxh".split("").reverse().join(""))){chxm1023["\u0072\u0065\u0063\u0065\u0069\u0070\u0074"]["\u0069\u006E\u005F\u0061\u0070\u0070"]=data;chxm1023["\u006C\u0061\u0074\u0065\u0073\u0074\u005F\u0072\u0065\u0063\u0065\u0069\u0070\u0074\u005F\u0069\u006E\u0066\u006F"]=data;chxm1023["\u0070\u0065\u006E\u0064\u0069\u006E\u0067\u005F\u0072\u0065\u006E\u0065\u0077\u0061\u006C\u005F\u0069\u006E\u0066\u006F"]=[{"\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":id,"original_transaction_id":"\u0034\u0039\u0030\u0030\u0030\u0031\u0033\u0031\u0034\u0035\u0032\u0030\u0030\u0030\u0030","\u0061\u0075\u0074\u006F\u005F\u0072\u0065\u006E\u0065\u0077\u005F\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":id,"\u0061\u0075\u0074\u006F\u005F\u0072\u0065\u006E\u0065\u0077\u005F\u0073\u0074\u0061\u0074\u0075\u0073":"\u0031"}];chxm1023["\u006C\u0061\u0074\u0065\u0073\u0074\u005F\u0072\u0065\u0063\u0065\u0069\u0070\u0074"]=latest;}else if(hx['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("bdpxh".split("").reverse().join(""))){chxm1023["receipt"]["in_app"]=data;}else if(hx['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0068\u0078\u0070\u0064\u0063")){let _0xgad5cd;const xreceipt={"\u0065\u0078\u0070\u0069\u0072\u0065\u0073\u005F\u0064\u0061\u0074\u0065\u005F\u0066\u006F\u0072\u006D\u0061\u0074\u0074\u0065\u0064":"2099-09-09 09:09:09 Etc/GMT","expires_date":"\u0034\u0030\u0039\u0032\u0035\u0039\u0039\u0033\u0034\u0039\u0030\u0030\u0030","\u0065\u0078\u0070\u0069\u0072\u0065\u0073\u005F\u0064\u0061\u0074\u0065\u005F\u0066\u006F\u0072\u006D\u0061\u0074\u0074\u0065\u0064\u005F\u0070\u0073\u0074":"2099-09-09 06:06:06 America/Los_Angeles","\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":id};_0xgad5cd=(674601^674593)+(791317^791313);chxm1023["receipt"]=Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},chxm1023["\u0072\u0065\u0063\u0065\u0069\u0070\u0074"],xreceipt);chxm1023["\u006C\u0061\u0074\u0065\u0073\u0074\u005F\u0072\u0065\u0063\u0065\u0069\u0070\u0074\u005F\u0069\u006E\u0066\u006F"]=Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},chxm1023["\u0072\u0065\u0063\u0065\u0069\u0070\u0074"],xreceipt);chxm1023["status"]=798973^798973;chxm1023["\u0061\u0075\u0074\u006F\u005F\u0072\u0065\u006E\u0065\u0077\u005F\u0073\u0074\u0061\u0074\u0075\u0073"]=712630^712631;chxm1023["\u0061\u0075\u0074\u006F\u005F\u0072\u0065\u006E\u0065\u0077\u005F\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064"]=id;delete chxm1023["latest_expired_receipt_info"];delete chxm1023["\u0065\u0078\u0070\u0069\u0072\u0061\u0074\u0069\u006F\u006E\u005F\u0069\u006E\u0074\u0065\u006E\u0074"];}if(version&&version['\u0074\u0072\u0069\u006D']()!==''){chxm1023["receipt"]["original_application_version"]=version;}anchor=!![];console['\u006C\u006F\u0067']("\u606D\u559C\u60A8\uFF0C\u5DF2\u64CD\u4F5C\u6210\u529F\uD83C\uDF89\uD83C\uDF89\uD83C\uDF89");break;}}if(!anchor){data=[Object['\u0061\u0073\u0073\u0069\u0067\u006E']({},receipt,expirestime)];chxm1023["\u0072\u0065\u0063\u0065\u0069\u0070\u0074"]["\u0069\u006E\u005F\u0061\u0070\u0070"]=data;chxm1023["\u006C\u0061\u0074\u0065\u0073\u0074\u005F\u0072\u0065\u0063\u0065\u0069\u0070\u0074\u005F\u0069\u006E\u0066\u006F"]=data;chxm1023["pending_renewal_info"]=[{"\u0070\u0072\u006F\u0064\u0075\u0063\u0074\u005F\u0069\u0064":yearlyid,"original_transaction_id":"\u0034\u0039\u0030\u0030\u0030\u0031\u0033\u0031\u0034\u0035\u0032\u0030\u0030\u0030\u0030","auto_renew_product_id":yearlyid,"auto_renew_status":"\u0031"}];chxm1023["\u006C\u0061\u0074\u0065\u0073\u0074\u005F\u0072\u0065\u0063\u0065\u0069\u0070\u0074"]="\u0063\u0068\u0078\u006D\u0031\u0030\u0032\u0033";console['\u006C\u006F\u0067']("\u5F88\u9057\u61BE\u672A\u80FD\u8BC6\u522B\u51FA\u0055\u0041\u6216\u0062\u0075\u006E\u0064\u006C\u0065\u005F\u0069\u0064\u000A\u4F46\u5DF2\u4F7F\u7528\u5907\u7528\u65B9\u6848\u64CD\u4F5C\u6210\u529F\uD83C\uDF89\uD83C\uDF89\uD83C\uDF89\u000A");}$done({"body":JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](chxm1023)});
+var chxm1023 = JSON.parse($response.body);
+const ua = $request.headers['User-Agent'] || $request.headers['user-agent'];
+const bundle_id = chxm1023.receipt["bundle_id"] || chxm1023.receipt["Bundle_Id"];
+const yearid = `${bundle_id}.year`;
+const yearlyid = `${bundle_id}.yearly`;
+const yearlysubscription = `${bundle_id}.yearlysubscription`;
+
+const list = {
+  'com.floatcamellia.prettyup': { cm: 'timeb', hx: 'hxpda', id: "com.floatcamellia.prettyup.onetimepurchase", latest: "chxm1023" },  //PrettyUp视频P图
+};
+
+//内购数据变量
+const receipt = { "quantity": "1", "purchase_date_ms": "1694250549000", "is_in_intro_offer_period": "false", "transaction_id": "490001314520000", "is_trial_period": "false", "original_transaction_id": "490001314520000", "purchase_date": "2023-09-09 09:09:09 Etc/GMT", "product_id": yearlyid, "original_purchase_date_pst": "2023-09-09 02:09:10 America/Los_Angeles", "in_app_ownership_type": "PURCHASED", "original_purchase_date_ms": "1694250550000", "web_order_line_item_id": "490000123456789", "purchase_date_pst": "2023-09-09 02:09:09 America/Los_Angeles", "original_purchase_date": "2023-09-09 09:09:10 Etc/GMT" };
+const expirestime = { "expires_date": "2099-09-09 09:09:09 Etc/GMT", "expires_date_pst": "2099-09-09 06:06:06 America/Los_Angeles", "expires_date_ms": "4092599349000", };
+let anchor = false;
+let data;
+
+// 核心内容处理
+for (const i in list) {
+  const regex = new RegExp(`^${i}`, `i`);
+  if (regex.test(ua) || regex.test(bundle_id)) {
+    const { cm, hx, id, ids, latest, version } = list[i];
+    const receiptdata = Object.assign({}, receipt, { "product_id": id });
+    //处理数据
+    switch (cm) {
+      case 'timea':
+        data = [ Object.assign({}, receiptdata, expirestime)];
+        break;
+      case 'timeb':
+        data = [receiptdata];
+        break;
+      case 'timec':
+        data = [];
+        break;
+      case 'timed':
+        data = [
+          Object.assign({}, receiptdata, { "product_id": ids }),
+          Object.assign({}, receiptdata, expirestime, { "product_id": id })
+        ];
+        break;
+    }
+    //处理核心收尾
+    if (hx.includes('hxpda')) {
+      chxm1023["receipt"]["in_app"] = data;
+      chxm1023["latest_receipt_info"] = data;
+      chxm1023["pending_renewal_info"] = [{ "product_id": id, "original_transaction_id": "490001314520000", "auto_renew_product_id": id, "auto_renew_status": "1" }];
+      chxm1023["latest_receipt"] = latest;
+    }
+    else if (hx.includes('hxpdb')) {
+      chxm1023["receipt"]["in_app"] = data;
+    }
+    else if (hx.includes('hxpdc')) {
+      const xreceipt = { "expires_date_formatted" : "2099-09-09 09:09:09 Etc/GMT", "expires_date" : "4092599349000", "expires_date_formatted_pst" : "2099-09-09 06:06:06 America/Los_Angeles", "product_id" : id, };
+      chxm1023["receipt"] = Object.assign({}, chxm1023["receipt"], xreceipt);
+      chxm1023["latest_receipt_info"] = Object.assign({}, chxm1023["receipt"], xreceipt);
+      chxm1023["status"] = 0;
+      chxm1023["auto_renew_status"] = 1;
+      chxm1023["auto_renew_product_id"] = id;
+      delete chxm1023["latest_expired_receipt_info"];
+      delete chxm1023["expiration_intent"];
+    }
+    // 判断是否需要加入版本号
+    if (version && version.trim() !== '') { chxm1023["receipt"]["original_application_version"] = version; }
+    anchor = true;
+    console.log('恭喜您，已操作成功🎉🎉🎉');
+    break;
+  }
+}
+
+// 如果没有匹配到 UA 或 bundle_id 使用备用方案
+if (!anchor) {
+  data = [ Object.assign({}, receipt, expirestime)];
+  chxm1023["receipt"]["in_app"] = data;
+  chxm1023["latest_receipt_info"] = data;
+  chxm1023["pending_renewal_info"] = [{ "product_id": yearlyid, "original_transaction_id": "490001314520000", "auto_renew_product_id": yearlyid, "auto_renew_status": "1" }];
+  chxm1023["latest_receipt"] = "chxm1023";
+  console.log('很遗憾未能识别出UA或bundle_id\n但已使用备用方案操作成功🎉🎉🎉\n');
+}
+
+$done({ body: JSON.stringify(chxm1023) });
