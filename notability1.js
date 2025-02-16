@@ -3,7 +3,8 @@ var chp2007=JSON.parse($response.body);
 chp2007={
   "data" : {
     "processAppleReceipt" : {
-      "error" : 0,
+      "__typename" : "SubscriptionResult",
+      "isClassic" : false,
       "subscription" : {
         "productId" : "com.gingerlabs.Notability.premium_subscription",
         "originalTransactionId" : "120002639651229",
@@ -20,7 +21,7 @@ chp2007={
         "status" : "active",
         "originalPurchaseDate" : "2021-11-09T05:13:06.000Z"
       },
-      "__typename" : "SubscriptionResult"
+      "error" : 0
     }
   }
 };
