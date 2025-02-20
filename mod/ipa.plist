@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://v2server.github.io/ios/Shadowrocket.ipa</string>
+                        <string>https://cdn.jsdelivr.net/gh/chp2007/Rewrite@main/mod/Shadow.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
