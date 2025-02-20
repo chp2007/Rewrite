@@ -4,7 +4,6 @@ nb11={
   "data" : {
     "processAppleReceipt" : {
       "__typename" : "SubscriptionResult",
-      "isClassic" : false,
       "subscription" : {
         "productId" : "com.gingerlabs.Notability.premium_subscription",
         "originalTransactionId" : "120302739651720",
