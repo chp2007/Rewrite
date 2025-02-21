@@ -1,6 +1,6 @@
-var nb11=JSON.parse($response.body);
+var nb1011=JSON.parse($response.body);
 
-nb11={
+nb1011={
   "data" : {
     "processAppleReceipt" : {
       "__typename" : "SubscriptionResult",
@@ -25,4 +25,4 @@ nb11={
   }
 };
 
-$done({body:JSON.stringify(nb11)});
+$done({body:JSON.stringify(nb1011)});
