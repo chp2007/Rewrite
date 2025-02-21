@@ -1,6 +1,6 @@
-var chp2007=JSON.parse($response.body);
+var nb1012=JSON.parse($response.body);
 
-chp2007={
+nb1012={
   "data" : {
     "processAppleReceipt" : {
       "__typename" : "SubscriptionResult",
@@ -26,4 +26,4 @@ chp2007={
   }
 };
 
-$done({body:JSON.stringify(chp2007)});
+$done({body:JSON.stringify(nb1012)});
