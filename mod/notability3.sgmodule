@@ -1,0 +1,9 @@
+#!url=https://raw.gitmirror.com/chp2007/Rewrite/main/mod/notability1.sgmodule
+#!name=Notability Lifetime1
+#!desc=解锁notability plus至2099年
+
+[Script]
+notability=type=http-response, pattern=^https?:\/\/notability\.com\/global, script-path=https://cdn.jsdelivr.net/gh/chp2007/Rewrite@main/notability1.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname=%APPEND% notability.com
