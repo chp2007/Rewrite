@@ -3,8 +3,8 @@ const obj = JSON.parse((typeof $response !== "undefined" && $response.body) || n
 const gn6 = "com.goodnotes.gn6_one_time_unlock_3999";
 const modData = {
          "grace_period_expires_date" : null,
-        "purchase_date" : "2023-08-16T03:19:04Z",
-        "expires_date" : "10000-12-31T03:19:04Z"
+        "purchase_date" : "2023-08-11T06:19:09Z",
+        "expires_date" : "10000-12-31T06:19:09Z"
  };
 
 if (typeof $response === "undefined") {
@@ -14,14 +14,14 @@ if (typeof $response === "undefined") {
 } else if (obj && obj.subscriber) {
   obj.subscriber.subscriptions[gn6] = {
         "store_transaction_id" : "a3de8d234000766988gh12345cdad678",
-        "expires_date" : "10000-12-31T03:19:04Z",
+        "expires_date" : "10000-12-31T06:19:09Z",
         "is_sandbox" : false,
         "unsubscribe_detected_at" : null,
         "refunded_at" : null,
         "auto_resume_date" : null,
         "grace_period_expires_date" : null,
         "period_type" : "normal",
-        "purchase_date" : "2023-08-16T03:19:04Z",
+        "purchase_date" : "2023-08-11T06:19:09Z",
         "quotas" : {
 
         },
@@ -29,7 +29,7 @@ if (typeof $response === "undefined") {
         "ownership_type" : "PURCHASED",
         "app_type" : "ios",
         "store" : "app_store",
-        "original_purchase_date" : "2023-08-16T03:19:05Z"
+        "original_purchase_date" : "2023-08-11T06:19:09Z"
   };
   obj.subscriber.entitlements["apple_access"] = modData;
   obj.subscriber.entitlements["apple_access"].product_identifier = gn6;
