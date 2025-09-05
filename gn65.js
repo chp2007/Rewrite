@@ -4,7 +4,7 @@ const gn6 = "com.goodnotes.gn6_one_time_unlock_3799";
 const modData = {
         "grace_period_expires_date" : null,
         "purchase_date" : "2023-08-16T03:19:04Z",
-        "expires_date" : "9999-09-09T03:19:04Z"
+        "expires_date" : "10000-01-01T03:19:04Z"
  };
 
 if (typeof $response === "undefined") {
@@ -14,7 +14,7 @@ if (typeof $response === "undefined") {
 } else if (obj && obj.subscriber) {
   obj.subscriber.subscriptions[gn6] = {
         "store_transaction_id" : "a3de8d234000769886gh58456cdad770",
-        "expires_date" : "9999-09-09T03:19:04Z",
+        "expires_date" : "10000-01-01T03:19:04Z",
         "is_sandbox" : false,
         "unsubscribe_detected_at" : null,
         "refunded_at" : null,
