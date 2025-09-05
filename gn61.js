@@ -1,7 +1,10 @@
 const body = {};
 const obj = JSON.parse((typeof $response !== "undefined" && $response.body) || null);
-const gn6 = "com.goodnotes.gn6_one_time_unlock_3999";
-const modData = { purchase_date: "2023-09-01T09:12:34Z" };
+const gn6 = "com.goodnotes.gn6_one_time_unlock_3499";
+const modData = { 
+  purchase_date: "2023-09-01T09:12:34Z",
+  expires_date: "2999-09-09T09:12:34Z"
+};
 
 if (typeof $response === "undefined") {
   delete $request.headers["x-revenuecat-etag"];
@@ -11,6 +14,7 @@ if (typeof $response === "undefined") {
   obj.subscriber.subscriptions[gn6] = {
     original_purchase_date: "2023-09-01T09:12:34Z",
     purchase_date: "2023-09-01T09:12:34Z",
+    expires_date: "2999-09-09T09:12:34Z",
     store: "app_store",
     ownership_type: "PURCHASED"
   };
