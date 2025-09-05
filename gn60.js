@@ -13,7 +13,7 @@ if (typeof $response === "undefined") {
   body.headers = $request.headers;
 } else if (obj && obj.subscriber) {
   obj.subscriber.subscriptions[gn6] = {
-        "store_transaction_id" : "a3de8d234000769886gh58456cdad770",
+        "store_transaction_id" : "a3de8d234000766988gh12345cdad678",
         "expires_date" : "10000-12-31T03:19:04Z",
         "is_sandbox" : false,
         "unsubscribe_detected_at" : null,
