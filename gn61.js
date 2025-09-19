@@ -1,10 +1,16 @@
 const body = {};
 const obj = JSON.parse((typeof $response !== "undefined" && $response.body) || null);
 const gn6 = "com.goodnotes.gn6_one_time_unlock_3799";
+const gt5 = "com.goodnotes.one_time_unlock";
 const modData6 = {
         "grace_period_expires_date" : null,
         "plan_key" : "premium",
         "purchase_date" : "2023-08-12T18:39:27Z",
+        "expires_date" : null
+ };
+const modData5 = {
+        "grace_period_expires_date" : null,
+        "purchase_date" : "2022-11-10T23:44:54Z",
         "expires_date" : null
  };
 
@@ -31,10 +37,30 @@ if (typeof $response === "undefined") {
           "store" : "app_store"
         }
       ];
+  obj.subscriber.non_subscriptions[gt5] = [
+        {
+          "store_transaction_id" : "460001317680873",
+          "is_sandbox" : false,
+          "ownership_type" : "PURCHASED",
+          "id" : "689f04d55d7e4de82fb52ff4",
+          "price" : {
+            "amount" : 25,
+            "currency" : "CNY"
+          },
+          "country" : "CN",
+          "app_type" : "ios",
+          "display_name" : "com.goodnotes.one_time_unlock",
+          "original_purchase_date" : "2022-11-10T23:44:54Z",
+          "purchase_date" : "2022-11-10T23:44:54Z",
+          "store" : "app_store"
+        }
+      ];
   obj.subscriber.entitlements["apple_access"] = modData6;
   obj.subscriber.entitlements["apple_access"].product_identifier = gn6;
   obj.subscriber.entitlements["crossplatform_access"] = modData6;
   obj.subscriber.entitlements["crossplatform_access"].product_identifier = gn6;
+  obj.subscriber.entitlements["gn5"] = modData5;
+  obj.subscriber.entitlements["gn5"].product_identifier = gt5;
   body.body = JSON.stringify(obj);
 }
 
