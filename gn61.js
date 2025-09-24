@@ -4,7 +4,7 @@ const gn6 = "com.goodnotes.gn6_one_time_unlock_3799";
 const gt5 = "com.goodnotes.one_time_unlock";
 const modData6 = {
         "grace_period_expires_date" : null,
-        "plan_key" : "premium",
+        "plan_key" : "gn6_otp",
         "purchase_date" : "2023-08-12T18:39:27Z",
         "expires_date" : null
  };
