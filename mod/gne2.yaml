@@ -1,0 +1,19 @@
+name: goodnotes6永久订阅
+description: goodnotes6永久订阅到10000年
+scriptings:
+  - http_response:
+      name: "response script"
+      match: "https://isi.csan.goodnotes.com/v1/subscribers/"
+      script_url: "https://cdn.jsdelivr.net/gh/chp2007/Rewrite@main/gne2.js"
+      timeout: 60
+      max_size: -1
+      body_required: true
+  - http_request:
+      name: "request script"
+      match: "https://isi.csan.goodnotes.com/v1/subscribers/"
+      script_url: "https://cdn.jsdelivr.net/gh/chp2007/Rewrite@main/gne2.js"
+      timeout: 60
+mitm:
+  enabled: true
+  hostnames:
+    - "isi.csan.goodnotes.com"
