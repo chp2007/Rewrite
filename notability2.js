@@ -6,13 +6,13 @@ nb1012={
       "tier" : "premium",
       "current" : {
         "source" : "AppStoreConsumer",
-        "expirationDate" : 4100342400000,
+        "expirationDate" : 4087641600000,
         "details" : {
-          "originalTransactionId" : "330001932792320",
+          "originalTransactionId" : "120005639111229",
           "__typename" : "AppStoreSubscription",
           "overDeviceLimit" : false,
-          "productId" : "com.gingerlabs.Notability.premium_subscription_variant",
-          "appStoreStatus" : "canceled"
+          "productId" : "com.gingerlabs.Notability.premium_subscription",
+          "appStoreStatus" : "active"
         },
         "renewalDate" : null,
         "tier" : "premium",
@@ -22,19 +22,22 @@ nb1012={
       "quotas" : {
         "__typename" : "SubscriptionFeatureQuotaView",
         "learnSummaries" : {
-          "isUsageExceeded" : false,
-          "usagePercentage" : 0,
-          "__typename" : "SubscriptionFeatureQuota"
+          "quotaWindowType" : null,
+          "__typename" : "SubscriptionFeatureQuota",
+          "usagePercentage" : 100,
+          "isUsageExceeded" : true
         },
         "learnQuestions" : {
-          "isUsageExceeded" : false,
-          "usagePercentage" : 0,
-          "__typename" : "SubscriptionFeatureQuota"
+          "quotaWindowType" : null,
+          "__typename" : "SubscriptionFeatureQuota",
+          "usagePercentage" : 100,
+          "isUsageExceeded" : true
         },
         "liveTranscription" : {
-          "isUsageExceeded" : false,
-          "usagePercentage" : 0,
-          "__typename" : "SubscriptionFeatureQuota"
+          "quotaWindowType" : null,
+          "__typename" : "SubscriptionFeatureQuota",
+          "usagePercentage" : 100,
+          "isUsageExceeded" : true
         }
       },
       "prior" : null
